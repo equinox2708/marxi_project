@@ -1,0 +1,13 @@
+diff a/Marxi_Project.uproject b/Marxi_Project.uproject	(rejected hunks)
+@@ -10,10 +10,6 @@
+ 			"TargetAllowList": [
+ 				"Editor"
+ 			]
+-		},
+-		{
+-			"Name": "HoudiniEngine",
+-			"Enabled": true
+ 		}
+ 	]
+ }
+\ No newline at end of file
